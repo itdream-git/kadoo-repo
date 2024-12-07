@@ -1,11 +1,11 @@
-# Airbnb API
+# Kadoo Car Location
 
-REST & GraphQL API of the Airbnb Clone using Django REST Framework and Graphene GraphQL
+REST & GraphQL API of the kadoo using Django REST Framework and Graphene GraphQL
 
 ### API Actions
 
-- [ ] List Rooms
-- [ ] Filter Rooms
+- [ ] List cars
+- [ ] Filter cars
 - [ ] Search By Coords
 - [ ] Login
 - [ ] Create Account
