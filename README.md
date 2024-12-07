@@ -9,8 +9,8 @@ REST & GraphQL API of the kadoo using Django REST Framework and Graphene GraphQL
 - [ ] Search By Coords
 - [ ] Login
 - [ ] Create Account
-- [ ] See Room
-- [ ] Add Room to Favourites
+- [ ] See car
+- [ ] Add car to Favourites
 - [ ] See Favs
 - [ ] See Profile
 - [ ] Edit Profile
